@@ -1,0 +1,51 @@
+{
+  "1": {
+    "name": "Kurkure Masala Munch (94g)",
+    "price": "25",
+    "mrp": "30",
+    "image": "kurkure.jpg",
+    "stock": "5"
+  },
+  "2": {
+    "name": "Nissin Veggi Manchow (45g)",
+    "price": "35",
+    "mrp": "40",
+    "image": "nissin-manchow.jpg",
+    "stock": "4"
+  },
+  "3": {
+    "name": "Nissin Mazedaar Masala (45g)",
+    "price": "35",
+    "mrp": "40",
+    "image": "nissin-masala.jpg",
+    "stock": "2"
+  },
+  "4": {
+    "name": "Snickers (40g)",
+    "price": "40",
+    "mrp": "47",
+    "image": "snickers.jpg",
+    "stock": "6"
+  },
+  "5": {
+    "name": "Dark Fantasy (Single, 11.5g)",
+    "price": "6",
+    "mrp": "",
+    "image": "dark-fantasy-single.jpg",
+    "stock": "41"
+  },
+  "6": {
+    "name": "Poppins (100g)",
+    "price": "25",
+    "mrp": "30",
+    "image": "poppins.jpg",
+    "stock": "1"
+  },
+  "7": {
+    "name": "Sunfeast Wowzers (128g)",
+    "price": "50",
+    "mrp": "60",
+    "image": "sunfeast-cheese-wozzers.jpg",
+    "stock": "1"
+  }
+}
